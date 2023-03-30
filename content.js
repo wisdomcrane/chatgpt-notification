@@ -1,5 +1,7 @@
 function notifyUser() {
-  chrome.runtime.sendMessage({ action: "buttonVisibilityChanged" });
+  if (chrome.runtime) {
+    chrome.runtime.sendMessage({ action: "buttonVisibilityChanged" });
+  }
 }
 
 let buttonAdded = false;
