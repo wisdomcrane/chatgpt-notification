@@ -1,6 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
   const notificationToggle = document.getElementById("notificationToggle");
-  const soundToggle = document.getElementById("soundToggle");
 
   // Load saved settings
   chrome.storage.sync.get(["enableNotifications"], (result) => {

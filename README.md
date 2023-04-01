@@ -38,4 +38,4 @@ ChatGPT 사용자 인터페이스(UI)를 모니터링하고 응답이 완료되�
 
 ## 크롬 스토어
 
-지금 크롬 스토어 신청중입니다. 승인되면 링크 남기겠습니다.
+[크롬 웹스토어](https://chrome.google.com/webstore/detail/chatgpt-notification/kkgognbbkkdgchgaodffkgmkcgpimhic?hl=ko&authuser=0)
