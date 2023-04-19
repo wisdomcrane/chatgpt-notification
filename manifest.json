@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ChatGPT notification",
-  "version": "1.0",
+  "version": "1.1",
   "description": "A Chrome extension to show a notification when a chatgpt's response is completed.",
   "permissions": ["notifications", "storage"],
   "action": {
